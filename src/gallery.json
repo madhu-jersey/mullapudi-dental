@@ -1,0 +1,12 @@
+{
+  "_readme": "Clinic gallery. PHOTOS AND CAPTIONS TO BE CONFIRMED WITH CLIENT: the captions below are neutral placeholders. To add a photo: put the file (JPG, PNG or WebP, at least 800px wide) in assets/img/gallery/, set its path as 'src' below, then run: node src/optimize-gallery.mjs && node src/build.mjs. 'focus' sets which part stays visible when the photo is cropped to 4:3. Leave 'src' as null to show a placeholder tile. Never use photos of another clinic. The first photo shows large.",
+  "minWidth": 800,
+  "initialCount": 5,
+  "photos": [
+    { "src": null, "alt": "Mullapudi Dental Clinic, Tanuku (photo to be supplied)", "caption": "Clinic photo 1", "focus": "center" },
+    { "src": null, "alt": "Mullapudi Dental Clinic (photo to be supplied)", "caption": "Clinic photo 2", "focus": "center" },
+    { "src": null, "alt": "Mullapudi Dental Clinic (photo to be supplied)", "caption": "Clinic photo 3", "focus": "center" },
+    { "src": null, "alt": "Mullapudi Dental Clinic (photo to be supplied)", "caption": "Clinic photo 4", "focus": "center" },
+    { "src": null, "alt": "Mullapudi Dental Clinic (photo to be supplied)", "caption": "Clinic photo 5", "focus": "center" }
+  ]
+}

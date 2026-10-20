@@ -1,0 +1,44 @@
+{
+  "_readme": "Google review snapshot. Update these values from the live Google Business listing, then run: node src/build.mjs. Only add reviews that appear on the listing, copied exactly. Show reviewer names as initials only. 'time' is the relative time as supplied. 'stars' null = star rating not supplied (the card shows a 'to be confirmed' label instead of stars). 'initials' null = not supplied.",
+  "listingName": "Mullapudi Dental Clinic",
+  "capturedOn": "2026-10-20",
+  "capturedOnLabel": "20 Oct 2026",
+  "breakdown": {
+    "_note": "Rating and total supplied by the client: verify against the live Google listing before publishing. STAR BREAKDOWN TO BE CONFIRMED: null = not entered (bar stays empty and shows a dash).",
+    "total": 68,
+    "average": 4.8,
+    "counts": {
+      "5": null,
+      "4": null,
+      "3": null,
+      "2": null,
+      "1": null
+    }
+  },
+  "reviewsUrl": "https://www.google.co.in/maps/place/Mullapudi+Dental+Clinic/@16.8696788,81.5626615,11z/data=!4m12!1m2!2m1!1smullapudi+dental!3m8!1s0x3a37b7a3e77b4e3d:0x4ba1d56a46a7574!8m2!3d16.7554642!4d81.6845425!9m1!1b1!15sChBtdWxsYXB1ZGkgZGVudGFsWhIiEG11bGxhcHVkaSBkZW50YWySAQ1kZW50YWxfY2xpbmljmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJ4ck5GUnNSbFpsYWxvMlRsWktNRTlVYkZaaVJYQk5aVzFvY1U5R1JSQULgAQD6AQUIjgIQSQ!16s%2Fg%2F11tjxkw8sc?entry=ttu",
+  "directionsUrl": "https://www.google.co.in/maps/place/Mullapudi+Dental+Clinic/@16.8696788,81.5626615,11z/data=!4m10!1m2!2m1!1smullapudi+dental!3m6!1s0x3a37b7a3e77b4e3d:0x4ba1d56a46a7574!8m2!3d16.7554642!4d81.6845425!15sChBtdWxsYXB1ZGkgZGVudGFsWhIiEG11bGxhcHVkaSBkZW50YWySAQ1kZW50YWxfY2xpbmljmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJ4ck5GUnNSbFpsYWxvMlRsWktNRTlVYkZaaVJYQk5aVzFvY1U5R1JSQULgAQD6AQUIjgIQSQ!16s%2Fg%2F11tjxkw8sc?entry=ttu",
+  "_mapNote": "Google Maps place links cannot be shown inside an iframe, so the map uses Google's embed form of the same place (name + coordinates 16.7554642, 81.6845425 from the supplied link). Verify the pin against the clinic address before publishing.",
+  "mapEmbedUrl": "https://maps.google.com/maps?q=Mullapudi%20Dental%20Clinic%4016.7554642%2C81.6845425&z=17&hl=en&output=embed",
+  "mapPlaceUrl": "https://www.google.co.in/maps/place/Mullapudi+Dental+Clinic/@16.8696788,81.5626615,11z/data=!4m10!1m2!2m1!1smullapudi+dental!3m6!1s0x3a37b7a3e77b4e3d:0x4ba1d56a46a7574!8m2!3d16.7554642!4d81.6845425!15sChBtdWxsYXB1ZGkgZGVudGFsWhIiEG11bGxhcHVkaSBkZW50YWySAQ1kZW50YWxfY2xpbmljmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDJ4ck5GUnNSbFpsYWxvMlRsWktNRTlVYkZaaVJYQk5aVzFvY1U5R1JSQULgAQD6AQUIjgIQSQ!16s%2Fg%2F11tjxkw8sc?entry=ttu",
+  "autoAdvance": false,
+  "reviews": [
+    {
+      "stars": null,
+      "time": "4 months ago",
+      "initials": "P. S.",
+      "text": "I visited the dental clinic and the doctor nithasha mam is very kind and their treatment was so good and painless treatment in this clinic 🤍 …"
+    },
+    {
+      "stars": null,
+      "time": "4 months ago",
+      "initials": "M. M.",
+      "text": "I went there for my mother's root canal & cap for crown. The service is best. I highly recommend people to go there"
+    },
+    {
+      "stars": null,
+      "time": "a year ago",
+      "initials": null,
+      "text": "I recently visited Mullapudi dental clinic for treatment of root canal, dental cleaning and cap for my crown. From the moment I walked in, the team made me feel at ease. Dr. Nithisha Maam was gentle, explained each step, and ensured I felt no pain during the procedure. The clinic was clean and well-organized, and the equipment looked modern. I’m really happy with my smile. I appreciate their professionalism and personal care. I’ll definitely return for future check-ups!"
+    }
+  ]
+}
